@@ -1,7 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 *.idea
 *.iml
-
+*/build/*
+.gradle
 ### Kotlin template
 # Compiled class file
 *.class
